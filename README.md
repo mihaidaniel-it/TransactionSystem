@@ -82,5 +82,5 @@ java Main
 
 ## Author
 
-**Developed:** Mihai Daniel
-**Email:** [mihaidaniel.it@gmail.com](mailto:mihaidaniel.it@gmail.com)
+- **Developed:** Mihai Daniel
+- **Email:** [mihaidaniel.it@gmail.com](mailto:mihaidaniel.it@gmail.com)
