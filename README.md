@@ -65,7 +65,7 @@ To run the project locally:
 ```
 git clone https://github.com/mihaidaniel-it/TransactionSystem.git
 
-cd TransactionSystem
+cd java_string_and_dates
 
 javac Main.java
 
